@@ -2,12 +2,12 @@
     "products": [
 	{
             "product": {
-                "title": "NEW WIDGET FOR BUSINESS UNIT TCI EZ-TCU Automatic Transmission Controller",
+                "title": "PINK ELEPHANT",
                 "bodyHtml": "<strong>These TCI EZ-TCU</strong> automatic transmission controllers are fully configured right out of the box--no tuning is necessary. Simply install them with the included instructions and then start the system by answering the simple setup wizard questions on the included hand-held unit. They are capable of real-time switchable calibrations, which allows for multiple setups.", 
                 "vendor": "TCI",
                 "sku" : "12345678",
                 "producttype": "Transmission",
-                "productimage" :"img/tci_small_computer.jpg",
+                "productimage" :"img/pink_ele.jpg",
                 "startingat" : "$1111599.99",
                 "variants": [
                     {
