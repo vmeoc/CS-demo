@@ -6,9 +6,9 @@
                 "bodyHtml": "<strong>A very pink elephant !!</strong>", 
                 "vendor": "VMware",
                 "sku" : "12345678",
-                "producttype": "Transmission",
+                "producttype": "Pets",
                 "productimage" :"img/pink_ele.jpg",
-                "startingat" : "$1599.99",
+                "startingat" : "$599.99",
                 "variants": [
                     {
                         "text": "GM 4L60e/4L65e",
