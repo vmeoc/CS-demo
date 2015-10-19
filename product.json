@@ -2,13 +2,13 @@
     "products": [
 	{
             "product": {
-                "title": "THE Special Pink Elephant",
-                "bodyHtml": "<strong>These TCI EZ-TCU</strong> automatic transmission controllers are fully configured right out of the box--no tuning is necessary. Simply install them with the included instructions and then start the system by answering the simple setup wizard questions on the included hand-held unit. They are capable of real-time switchable calibrations, which allows for multiple setups.", 
-                "vendor": "TCI",
+                "title": "Pink Elephant",
+                "bodyHtml": "<strong>Special Pink Elephant</strong>", 
+                "vendor": "VMware
                 "sku" : "12345678",
-                "producttype": "Transmission",
+                "producttype": "Pets",
                 "productimage" :"img/pink_ele.jpg",
-                "startingat" : "$1599.99",
+                "startingat" : "$599.99",
                 "variants": [
                     {
                         "text": "GM 4L60e/4L65e",
