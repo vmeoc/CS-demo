@@ -2,7 +2,7 @@
     "products": [
 	{
             "product": {
-                "title": "A Pink Elephant",
+                "title": "A Nice Pink Elephant",
                 "bodyHtml": "<strong>A very pink elephant !!</strong>", 
                 "vendor": "VMware",
                 "sku" : "12345678",
