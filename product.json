@@ -2,13 +2,13 @@
     "products": [
 	{
             "product": {
-                "title": "My Pink Elephant",
+                "title": "Case of Beer",
                 "bodyHtml": "<strong>A very pink elephant !!</strong>", 
                 "vendor": "VMware",
                 "sku" : "12345678",
                 "producttype": "Pets",
                 "productimage" :"img/pink_ele.jpg",
-                "startingat" : "$599.99",
+                "startingat" : "$59.99",
                 "variants": [
                     {
                         "text": "GM 4L60e/4L65e",
