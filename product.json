@@ -3,7 +3,7 @@
 	{
             "product": {
                 "title": "Case of beer",
-                "bodyHtml": "Case of good Belgian beer !!", 
+                "bodyHtml": "Case of beer !!", 
                 "vendor": "TCI",
                 "sku" : "12345678",
                 "producttype": "Transmission",
