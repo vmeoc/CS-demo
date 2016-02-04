@@ -2,17 +2,17 @@
     "products": [
 	{
             "product": {
-                "title": "Case of nice beer",
-                "bodyHtml": "Case of beer !!", 
+                "title": "Classic 2CV",
+                "bodyHtml": "Classic 2CV", 
                 "vendor": "TCI",
                 "sku" : "12345678",
                 "producttype": "Transmission",
-                "productimage" :"img/duvel.jpg",
-                "startingat" : "$59.99",
+                "productimage" :"img/2cv.jpg",
+                "startingat" : "$1559.99",
                 "variants": [
                     {
-                        "text": "Duvel",
-                        "price": "59.99",
+                        "text": "2CV",
+                        "price": "659.99",
                         "sku": "TCI-4L60E"
                     }
                 ]
