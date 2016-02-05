@@ -2,7 +2,7 @@
     "products": [
 	{
             "product": {
-                "title": "Classic 2CV",
+                "title": "My Classic 2CV",
                 "bodyHtml": "Classic 2CV", 
                 "vendor": "TCI",
                 "sku" : "12345678",
