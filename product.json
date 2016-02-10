@@ -2,7 +2,7 @@
     "products": [
 	{
             "product": {
-                "title": "Case of beer",
+                "title": "A Case of beer",
                 "bodyHtml": "Beer", 
                 "vendor": "TCI",
                 "sku" : "12345678",
