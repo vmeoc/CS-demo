@@ -2,12 +2,12 @@
     "products": [
 	{
             "product": {
-                "title": "Case of beer",
-                "bodyHtml": "Nice case of beer",
+                "title": "Chocolate Teapot",
+                "bodyHtml": "Chocolate Teapot",
                 "vendor": "TCI",
                 "sku" : "12345678",
                 "producttype": "Transmission",
-                "productimage" :"img/duvel.jpg",
+                "productimage" :"img/teapot.jpg",
                 "startingat" : "$19.99",
                 "variants": [
                     {
