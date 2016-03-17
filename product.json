@@ -2,29 +2,6 @@
     "products": [
 	{
             "product": {
-                "title": "Nice Case of Duvel",
-                "bodyHtml": "Case of beer",
-                "vendor": "TCI",
-                "sku" : "12345678",
-                "producttype": "Transmission",
-                "productimage" :"img/duvel.jpg",
-                "startingat" : "$19.99",
-                "variants": [
-                    {
-                        "text": "GM 4L60e/4L65e",
-                        "price": "599.99",
-                        "sku": "TCI-4L60E"
-                    },
-                    {
-                        "text": "GM 4L80e/4L85e",
-                        "price": "699.99",
-                        "sku": "TCI-4L80E"
-                    }
-                ]
-            }
-        },
-	{
-            "product": {
                 "title": "TCI EZ-TCU Automatic Transmission Controller",
                 "bodyHtml": "<strong>These TCI EZ-TCU</strong> automatic transmission controllers are fully configured right out of the box--no tuning is necessary. Simply install them with the included instructions and then start the system by answering the simple setup wizard questions on the included hand-held unit. They are capable of real-time switchable calibrations, which allows for multiple setups.", 
                 "vendor": "TCI",
