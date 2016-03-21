@@ -8,7 +8,7 @@
                 "sku" : "12345678",
                 "producttype": "Transmission",
                 "productimage" :"img/duvel.jpg",
-                "startingat" : "$19.99",
+                "startingat" : "$29.99",
                 "variants": [
                     {
                         "text": "GM 4L60e/4L65e",
