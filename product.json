@@ -2,7 +2,7 @@
     "products": [
 	{
             "product": {
-                "title": "A Nice Case of beer",
+                "title": "A Nice Case of 40 beer",
                 "bodyHtml": "Duvel Beer", 
                 "vendor": "TCI",
                 "sku" : "12345678",
