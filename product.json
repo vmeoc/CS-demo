@@ -2,7 +2,7 @@
     "products": [
 	{
             "product": {
-                "title": "A Nice Case of 200000 beers",
+                "title": "A Nice Case of 2000000 beers",
                 "bodyHtml": "Duvel Beer", 
                 "vendor": "TCI",
                 "sku" : "12345678",
